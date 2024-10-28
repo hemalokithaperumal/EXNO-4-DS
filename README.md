@@ -25,6 +25,9 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
+DEVELOPED BY: HEMA LOKITHA P
+REGISTER NO:  212223110014
+```
 import pandas as pd
 from scipy import stats
 import numpy as np
